@@ -30,21 +30,6 @@ I'm a software engineer who builds **end-to-end web platforms**, **real-time dis
 
 ## 🚀 Featured Projects
 
-### 🔐 [fintrust.ai](https://github.com/Rahulbharvadiya/fintrust.ai-)
-**Autonomous Multi-Engine Forensic Identity Verification & Hackathon OS**
-
-<img src="https://skillicons.dev/icons?i=react,ts,vite,nodejs,express,supabase,postgres,vitest" alt="fintrust stack" />
-
-- Multi-stage forensic trust pipeline: **UIDAI Verhoeff Dihedral $D_5$** checksum validation, **128-dimensional facial landmark matching** (cosine similarity), and **Error Level Analysis (ELA)** for tamper detection
-- **Collision graph engine** that intercepts Sybil attacks and credential reuse across aliased registrations
-- Event operations module with **HMAC-SHA256 digital passes**, real-time ticket scanning (**<150 ms** verification) and **Z-score normalized** judging rubrics
-- ✅ **69/69 test vectors passing** across core forensic modules
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-fintrust--ai-success?style=for-the-badge&logo=vercel&logoColor=white)](https://fintrust-ai-iota.vercel.app/)
-[![Repo](https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Rahulbharvadiya/fintrust.ai-)
-
----
-
 ### 💬 [ONYX](https://github.com/Rahulbharvadiya/ONYX-P2P-Multimodal-Conversational-AI-for-Intelligent-Group-Communication)
 **Real-Time Multimodal AI Group & 1:1 Conversational Platform**
 
@@ -73,6 +58,21 @@ I'm a software engineer who builds **end-to-end web platforms**, **real-time dis
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-E--Shop-success?style=for-the-badge&logo=render&logoColor=white)](https://eshop-9kqz.onrender.com/)
 [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Rahulbharvadiya/E-Shop-AI-Powered-Luxury-E-Commerce-Platform)
+
+---
+
+### 🔐 [fintrust.ai](https://github.com/Rahulbharvadiya/fintrust.ai-)
+**Autonomous Multi-Engine Forensic Identity Verification & Hackathon OS**
+
+<img src="https://skillicons.dev/icons?i=react,ts,vite,nodejs,express,supabase,postgres,vitest" alt="fintrust stack" />
+
+- Multi-stage forensic trust pipeline: **UIDAI Verhoeff Dihedral $D_5$** checksum validation, **128-dimensional facial landmark matching** (cosine similarity), and **Error Level Analysis (ELA)** for tamper detection
+- **Collision graph engine** that intercepts Sybil attacks and credential reuse across aliased registrations
+- Event operations module with **HMAC-SHA256 digital passes**, real-time ticket scanning (**<150 ms** verification) and **Z-score normalized** judging rubrics
+- ✅ **69/69 test vectors passing** across core forensic modules
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-fintrust--ai-success?style=for-the-badge&logo=vercel&logoColor=white)](https://fintrust-ai-iota.vercel.app/)
+[![Repo](https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Rahulbharvadiya/fintrust.ai-)
 
 ---
 
