@@ -40,6 +40,7 @@ I'm a software engineer who builds **end-to-end web platforms**, **real-time dis
 - **Zero client-side key exposure**: provider keys live only in edge function environments
 - **Fail-closed two-stage moderation** (pre + post): classifier faults reject publication instead of passing through
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-ONYX-success?style=for-the-badge&logo=vercel&logoColor=white)](https://onyx-p2p-communication.vercel.app/)
 [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Rahulbharvadiya/ONYX-P2P-Multimodal-Conversational-AI-for-Intelligent-Group-Communication)
 
 ---
