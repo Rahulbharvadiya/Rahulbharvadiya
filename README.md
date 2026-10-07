@@ -17,20 +17,20 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 I'm a software engineer who builds **end-to-end web platforms**, **real-time distributed communication systems**, and **security-critical verification pipelines**. My work centres on robust backend architecture, strict typing, database-level isolation, and pragmatic AI integration.
 
-- 🔭 Currently building multi-engine forensic verification and real-time AI collaboration tools
-- 🛡️ I design for **zero-trust** and **fail-closed** behaviour by default
-- ⚡ I care about low-latency, synchronized state across many clients
-- 🧪 I test what I ship, with full vector coverage on critical modules
+- Currently building multi-engine forensic verification and real-time AI collaboration tools
+- I design for **zero-trust** and **fail-closed** behaviour by default
+- I care about low-latency, synchronized state across many clients
+- I test what I ship, with full vector coverage on critical modules
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 💬 [ONYX](https://github.com/Rahulbharvadiya/ONYX-P2P-Multimodal-Conversational-AI-for-Intelligent-Group-Communication)
+### [ONYX](https://github.com/Rahulbharvadiya/ONYX-P2P-Multimodal-Conversational-AI-for-Intelligent-Group-Communication)
 **Real-Time Multimodal AI Group & 1:1 Conversational Platform**
 
 <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,supabase,postgres,deno" alt="onyx stack" />
@@ -45,7 +45,7 @@ I'm a software engineer who builds **end-to-end web platforms**, **real-time dis
 
 ---
 
-### 🛍️ [E-Shop](https://github.com/Rahulbharvadiya/E-Shop-AI-Powered-Luxury-E-Commerce-Platform)
+### [E-Shop](https://github.com/Rahulbharvadiya/E-Shop-AI-Powered-Luxury-E-Commerce-Platform)
 **Full-Stack Luxury E-Commerce Ecosystem with Real-Time Deal Engine**
 
 <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,mongodb" alt="eshop stack" />
@@ -62,7 +62,7 @@ I'm a software engineer who builds **end-to-end web platforms**, **real-time dis
 
 ---
 
-### 🔐 [fintrust.ai](https://github.com/Rahulbharvadiya/fintrust.ai-)
+### [fintrust.ai](https://github.com/Rahulbharvadiya/fintrust.ai-)
 **Autonomous Multi-Engine Forensic Identity Verification & Hackathon OS**
 
 <img src="https://skillicons.dev/icons?i=react,ts,vite,nodejs,express,supabase,postgres,vitest" alt="fintrust stack" />
@@ -70,14 +70,14 @@ I'm a software engineer who builds **end-to-end web platforms**, **real-time dis
 - Multi-stage forensic trust pipeline: **UIDAI Verhoeff Dihedral $D_5$** checksum validation, **128-dimensional facial landmark matching** (cosine similarity), and **Error Level Analysis (ELA)** for tamper detection
 - **Collision graph engine** that intercepts Sybil attacks and credential reuse across aliased registrations
 - Event operations module with **HMAC-SHA256 digital passes**, real-time ticket scanning (**<150 ms** verification) and **Z-score normalized** judging rubrics
-- ✅ **69/69 test vectors passing** across core forensic modules
+- **69/69 test vectors passing** across core forensic modules
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-fintrust--ai-success?style=for-the-badge&logo=vercel&logoColor=white)](https://fintrust-ai-iota.vercel.app/)
 [![Repo](https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Rahulbharvadiya/fintrust.ai-)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -120,18 +120,18 @@ I'm a software engineer who builds **end-to-end web platforms**, **real-time dis
 
 ---
 
-## 🧱 Engineering Principles
+## Engineering Principles
 
 | Principle | What it means in practice |
 | :--- | :--- |
-| 🔒 **Zero-Trust Security** | Postgres Row-Level Security on all user-facing tables; no keys or secrets in client bundles |
-| 🚫 **Fail-Closed Pipelines** | Safety guards and classifiers reject or quarantine on upstream errors, never pass by default |
-| 🔄 **Synchronized Real-Time State** | WebSockets plus database-driven Realtime CDC / broadcasts keep every client consistent |
-| 🧩 **Type Safety** | Strict TypeScript across client state, API boundaries, and database query layers |
+| **Zero-Trust Security** | Postgres Row-Level Security on all user-facing tables; no keys or secrets in client bundles |
+| **Fail-Closed Pipelines** | Safety guards and classifiers reject or quarantine on upstream errors, never pass by default |
+| **Synchronized Real-Time State** | WebSockets plus database-driven Realtime CDC / broadcasts keep every client consistent |
+| **Type Safety** | Strict TypeScript across client state, API boundaries, and database query layers |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -146,7 +146,7 @@ I'm a software engineer who builds **end-to-end web platforms**, **real-time dis
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm open to conversations about full-stack systems, real-time architecture, and applied AI.
 
