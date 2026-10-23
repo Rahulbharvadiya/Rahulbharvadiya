@@ -22,8 +22,6 @@
 I'm a software engineer who builds **end-to-end web platforms**, **real-time distributed communication systems**, and **security-critical verification pipelines**. My work centres on robust backend architecture, strict typing, database-level isolation, and pragmatic AI integration.
 
 - Currently building multi-engine forensic verification and real-time AI collaboration tools
-- I design for **zero-trust** and **fail-closed** behaviour by default
-- I care about low-latency, synchronized state across many clients
 - I test what I ship, with full vector coverage on critical modules
 
 ---
