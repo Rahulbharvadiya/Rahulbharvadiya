@@ -11,7 +11,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-bharvadiya-13354b295/)
 [![GitHub](https://img.shields.io/badge/GitHub-Rahulbharvadiya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rahulbharvadiya)
-![Profile Views](https://komarev.com/ghpvc/?username=Rahulbharvadiya&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 </div>
 
@@ -126,21 +125,6 @@ I'm a software engineer who builds **end-to-end web platforms**, **real-time dis
 | **Fail-Closed Pipelines** | Safety guards and classifiers reject or quarantine on upstream errors, never pass by default |
 | **Synchronized Real-Time State** | WebSockets plus database-driven Realtime CDC / broadcasts keep every client consistent |
 | **Type Safety** | Strict TypeScript across client state, API boundaries, and database query layers |
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rahulbharvadiya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulbharvadiya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=Rahulbharvadiya&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rahulbharvadiya&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
-
-</div>
 
 ---
 
